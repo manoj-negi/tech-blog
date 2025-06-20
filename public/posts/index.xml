@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to my first blog post! This is written using Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Post 1</title>
+      <link>http://localhost:1313/posts/demo-post-1/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demo-post-1/</guid>
+      <description>&lt;p&gt;This is the content of demo post 1. Written using Hugo 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Post 2</title>
+      <link>http://localhost:1313/posts/demo-post-2/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demo-post-2/</guid>
+      <description>&lt;p&gt;This is the content of demo post 2. Written using Hugo 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Post 3</title>
+      <link>http://localhost:1313/posts/demo-post-3/</link>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demo-post-3/</guid>
+      <description>&lt;p&gt;This is the content of demo post 3. Written using Hugo 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Post 4</title>
+      <link>http://localhost:1313/posts/demo-post-4/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demo-post-4/</guid>
+      <description>&lt;p&gt;This is the content of demo post 4. Written using Hugo 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Demo Post 5</title>
+      <link>http://localhost:1313/posts/demo-post-5/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/demo-post-5/</guid>
+      <description>&lt;p&gt;This is the content of demo post 5. Written using Hugo 🚀&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
